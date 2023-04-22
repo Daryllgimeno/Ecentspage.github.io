@@ -1,0 +1,91 @@
+{
+	margin: 15px;
+	padding: 15px;
+}
+body{
+	margin: 	20px;
+	padding: 	20px;
+	margin-bottom: 20px;
+	width: 100%;
+            height: 100vh;
+           
+            background-size: cover;
+    
+background-image: linear-gradient(to bottom, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.3) 100%), url('BG2.jpg');
+
+}
+
+
+.content h1{
+ color: yellow;
+ 
+
+}
+.content p{
+	color: white;
+}
+.content ul{
+	color: white;
+
+}
+.left{
+	color: white;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+.Program h2{
+ color: yellow;
+}
+.Program p{
+	color: white;
+}
+.Information {
+	color: yellow;
+	margin-bottom: 20px;
+}
+.btn1 button {
+  background-color: #363636;
+  color: #ff0;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.btn1 button:hover {
+  background-color: #ff0;
+  color: #363636;
+}
+
+.btn2 button {
+  background-color: #363636;
+  color: #ff0;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.btn2 button:hover {
+  background-color: #ff0;
+  color: #363636;
+}
+
+.btn3 button {
+  background-color: #363636;
+  color: #ff0;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.5s;
+  margin-bottom: 20px;
+}
+
+.btn3 button:hover {
+  background-color: #ff0;
+  color: #363636;
+}
+
